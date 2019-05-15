@@ -1,0 +1,8 @@
+spring:
+    data:
+      mongodb:
+        database: cinema
+        port: 27017
+        host: localhost
+        repositories:
+          type: AUTO
